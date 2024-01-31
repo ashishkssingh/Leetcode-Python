@@ -6,3 +6,7 @@ __init__.py
 .pytest.cache/
 bandit.yml
 test_*
+
+.venv/
+.tool-versions
+poetry.lock
